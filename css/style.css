@@ -27,6 +27,7 @@ body{
     background-image: url(../images/top-banner.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
+    z-index: 1;
 }
 .logo-area{
     width: 100px;
